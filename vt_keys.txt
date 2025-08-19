@@ -1,0 +1,2 @@
+#VirusTotal username,VirusTotal Public API keys(改行区切り）
+username,APIkeys
