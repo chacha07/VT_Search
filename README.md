@@ -1,4 +1,4 @@
-# VirusTotal Multi-Checker GUI 
+# VirusTotal-Multi-Checker GUI 
 
 ## 概要
 このツールは、複数の IOC（IPアドレス、ドメイン、ハッシュ値など）を VirusTotal（VT）で検索し、その結果を取得できる **GUIツール** です。
@@ -20,7 +20,7 @@
 
 ## インストールと実行方法
 
-1. **必要なモジュールをインストール**
+1. **必要なモジュールをインストール(exeを使用の場合は不要)**
    ```bash
    pip install -r requirements.txt
    ```
