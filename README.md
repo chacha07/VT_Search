@@ -34,7 +34,7 @@
      ※ `username,APIkeys` と書かれている部分を自身の情報に置き換えてください。
 
 3. **ツールの起動**
-   - `vt_keys.txt` を `vt_search_v0.0.1.py` と同じフォルダに配置した状態で、以下のコマンドを実行します。
+   - `vt_keys.txt` を `vt_search_v0.0.1.py` と同じフォルダに配置した状態で、以下のコマンドを実行します(またはvt_search_v0.0.1.exeをダブルクリックで実行)。
      ```bash
      python vt_search_v0.0.1.py
      ```
