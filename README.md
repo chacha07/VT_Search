@@ -71,7 +71,7 @@ It cannot be used for commercial purposes and is limited to **personal use only*
 ---
 
 ## Requirements
-- Python 3.x environment
+- Python 3.x environment(Not required when using the exe version)
 - Internet connection
 - Free VirusTotal account
 
@@ -79,7 +79,7 @@ It cannot be used for commercial purposes and is limited to **personal use only*
 
 ## Installation and Execution
 
-1. **Install required modules**
+1. **Install required modules(Not required when using the exe version)**
    ```bash
    pip install -r requirements.txt
    ```
@@ -93,7 +93,7 @@ It cannot be used for commercial purposes and is limited to **personal use only*
      Replace the placeholder `username,APIkeys` with your own information.
 
 3. **Run the tool**
-   - Place `vt_keys.txt` in the same folder as `vt_search_v0.0.1.py`, then execute:
+   - Place `vt_keys.txt` in the same folder as `vt_search_v0.0.1.py`, then execute:(Or double-click vt_search_v0.0.1.exe to run)
      ```bash
      python vt_search_v0.0.1.py
      ```
